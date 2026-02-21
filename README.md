@@ -1,1 +1,1 @@
-"# Class Buddy" 
+# Class Buddy
